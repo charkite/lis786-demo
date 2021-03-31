@@ -1,6 +1,7 @@
 ---
 title: Eat with Relish
 layout: default
+theme: jekyll-theme-modernist
 ---
 Charles Kite, RDN, LDN
 
