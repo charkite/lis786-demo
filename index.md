@@ -1,5 +1,6 @@
 ---
 title: Eat with Relish
+Layout: nutrition_website.html
 theme: default
 ---
 Charles Kite, RDN, LDN
