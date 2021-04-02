@@ -1,7 +1,7 @@
 title: Eat with Relish
 theme: jekyll-theme-modernist
 collections:
-  nutrition_website:
+  nutrition_service:
     output: true
-    layout: nutrition_website
+    layout: nutrition_service
     
