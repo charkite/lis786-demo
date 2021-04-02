@@ -6,4 +6,4 @@ I've never met Mary Ellen Phillips, but thru Instagram, I discovered her. Mary E
 
 Although she has Type 1 Diabetes, the vast majority of her advice extends to people with Type 2 Prediabetes and anyone who wants to live a healthier life. She has links to her social media on her website.
 
-https://www.milkandhoneynutrition.com
+<https://www.milkandhoneynutrition.com>
